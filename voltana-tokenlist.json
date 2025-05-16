@@ -1,0 +1,23 @@
+{
+    "name": "Voltana Token List",
+    "timestamp": "2025-05-16T00:00:00+00:00",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "name": "Voltana",
+            "symbol": "VYN",
+            "address": "HkkYtvEJnf72TQTEKHj3pg1BctsT83MRWF8Dwqs5XwKP",
+            "decimals": 9,
+            "chainId": 101,
+            "logoURI": "https://raw.githubusercontent.com/voltanaofficial/token-list/main/assets/mainnet/HkkYtvEJnf72TQTEKHj3pg1BctsT83MRWF8Dwqs5XwKP/logo.png",
+            "tags": [
+                "utility-token",
+                "voltana"
+            ]
+        }
+    ]
+}
